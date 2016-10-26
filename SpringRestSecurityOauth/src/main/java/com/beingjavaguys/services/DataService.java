@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.beingjavaguys.models.User;
 /**
- * @author Nagesh.Chauhan
+ * @author Toufiq Mahmud
  *
  */
 public interface DataService {
