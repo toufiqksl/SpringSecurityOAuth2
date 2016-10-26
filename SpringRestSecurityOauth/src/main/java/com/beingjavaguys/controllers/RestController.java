@@ -12,7 +12,7 @@ import com.beingjavaguys.models.User;
 import com.beingjavaguys.services.DataService;
 
 /**
- * @author Nagesh.Chauhan
+ * @author Toufiq Mahmud
  *
  */
 @Controller
