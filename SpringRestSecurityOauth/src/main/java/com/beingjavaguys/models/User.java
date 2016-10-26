@@ -1,6 +1,6 @@
 package com.beingjavaguys.models;
 /**
- * @author Nagesh.Chauhan
+ * @author Toufiq Mahmud
  *
  */
 public class User {
