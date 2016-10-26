@@ -4,7 +4,7 @@
 	version="2.5">
 
 	<display-name>Sample Spring Maven Project</display-name>
-	<!-- @author Nagesh.Chauhan(neel4soft@gmail.com) -->
+	<!-- @author Toufiq Mahmud -->
 
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
