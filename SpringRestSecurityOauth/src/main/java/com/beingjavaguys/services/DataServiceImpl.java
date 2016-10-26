@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.beingjavaguys.models.User;
 /**
- * @author Nagesh.Chauhan
+ * @author Toufiq Mahmud
  *
  */
 @Service
